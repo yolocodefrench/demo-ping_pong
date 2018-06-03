@@ -1,0 +1,292 @@
+html{
+    width : 100%;
+    height: 100%;
+    font-family: sans-serif;
+    background-color: #f3f3f3;
+
+}
+
+body{
+    height : 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+}
+
+#test{
+    width : 50%;
+    height : 300px;
+    margin: auto;
+    position: relative;
+    
+}
+#test p{
+    text-align: right;
+    font-style: italic;
+    font-weight: bolder;
+}
+#text{
+    font-weight: bold;
+    font-style: italic;
+    color : grey;
+    text-indent: 45px;
+}
+
+#categorie{
+    position : absolute;
+    bottom : 0;
+    left : 0;
+    padding : 5px 10px;
+    border-radius : 3px;
+    border-color: #666666;
+    font-style: normal;
+    color : white;
+}
+
+.freedom{
+    background-color : white;
+    color : darkgray;
+}
+.religion{
+    background-color: teal;
+}
+.family{
+    background-color: chocolate;
+}
+.morning{
+    background-color: darkblue;
+}
+.mom{
+    background-color: darkmagenta;
+}
+.motivationnal{
+    background-color: darkslategray;
+}
+.politics{
+    background-color: firebrick;
+}
+.poetry{
+    background-color: goldenrod;
+}
+.science{
+    background-color: teal;
+}
+.food{
+    background-color: yellowgreen;
+}
+.home{
+    background-color: crimson;
+}
+.work{
+    background-color: darkred;
+}
+.health{
+    background-color: darkturquoise;
+}
+.fitness{
+    background-color: deeppink;
+}
+.strength{
+    background-color: dodgerblue;
+}
+.history{
+    background-color: red;
+}
+.best{
+    background-color: gold;
+}
+.trust{
+    background-color: sienna;
+}
+.hope{
+    background-color: royalblue;
+}
+.experience{
+    background-color: purple;
+}
+.funny{
+    background-color: peru;
+}
+.power{
+    background-color: palevioletred;
+}
+.peace{
+    background-color: olive;
+}
+.friendship{
+    background-color: pink;
+}
+.education{
+    background-color: orchid;
+}
+.women{
+    background-color: orangered;
+}
+.medical{
+    background-color: midnightblue;
+}
+.famous{
+    background-color: mediumslateblue;
+}
+.design{
+    background-color: maroon;
+}
+.life{
+    background-color: lime;
+}
+.beauty{
+    background-color: lightsalmon;
+}
+.war{
+    background-color: darkolivegreen;
+}
+.learning{
+    background-color: darkgoldenrod;
+}
+.marriage{
+    background-color: cadetblue;
+}
+.music{
+    background-color: rebeccapurple;
+}
+.architecture{
+    background-color: plum;
+}
+.amazing{
+    background-color: mediumturquoise;
+}
+.death{
+    background-color: black;
+}
+.technology{
+    background-color: skyblue;
+}
+.attitude{
+    background-color: salmon;
+}
+.art{
+    background-color: lightcoral;
+}
+.relationship{
+    background-color: indigo;
+}
+.good{
+    background-color: indianred;
+}
+.alone{
+    background-color: darkslategray;
+}
+.faith{
+    background-color: darkorchid;
+}
+.government{
+    background-color: darkorange;
+}
+.leadership{
+    background-color: darkblue;
+}
+.dad{
+    background-color: cornflowerblue;
+}
+.fear{
+    background-color: tomato;
+}
+.intelligence{
+    background-color: springgreen;
+}
+.finance{
+    background-color: steelblue;
+}
+.teen{
+    background-color: seagreen;
+}
+.color{
+    background-color: cornsilk;
+}
+.computers{
+    background-color: brown;
+}
+.anniversary{
+    background-color: blueviolet;
+}
+.positive{
+    background-color: lightsalmon;
+}
+.anger{
+    background-color: lavenderblush;
+    color : #666666;
+}
+.happiness{
+    background-color: darkseagreen;
+}
+.travel{
+    background-color: yellow;
+}
+.men{
+    background-color: tan;
+}
+.dating{
+    background-color: slategray;
+}
+.age{
+    background-color: sandybrown;
+}
+.succes{
+    background-color: rebeccapurple;
+}
+.equality{
+    background-color: purple;
+}
+.dreams{
+    background-color: palevioletred;
+}
+.god{
+    background-color: gold;
+}
+.sad{
+    background-color: fuchsia;
+}
+.inspirationnal{
+    background-color: deepskyblue;
+}
+.courage{
+    background-color: darkmagenta;
+}
+.failure{
+    background-color: darkcyan;
+}
+.car{
+    background-color: cornflowerblue;
+}
+.money{
+    background-color: brown;
+}
+.legal{
+    background-color: powderblue;
+}
+.cool{
+    background-color: palevioletred;
+}
+.society{
+    background-color: orangered;
+}
+.sports{
+    background-color: darkgoldenrod;
+}
+.truth{
+    background-color: green;
+}
+.nature{
+    background-color: green;
+}
+.business{
+    background-color: dodgerblue;
+}
+.movies{
+    background-color: darkblue;
+}
+.teacher{
+    background-color: brown;
+}
